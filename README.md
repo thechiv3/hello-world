@@ -1,2 +1,2 @@
 # hello-world
-want to build poker bot
+former poker player. learning python
